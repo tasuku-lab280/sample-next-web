@@ -1,0 +1,4 @@
+{
+  "name": "sample_next_web",
+  "image": "node:23-bullseye"
+}
